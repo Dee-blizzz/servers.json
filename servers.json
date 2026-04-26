@@ -1,30 +1,15 @@
 [
-    {
-        "online": "1188",
-        "maxonline": "1300",
-        "color": "FF0000",
-        "x2": "true",
-        "key": "1424",
-        "name": "Southside Roleplay",
-        "firstname": "Southside Roleplay",
-        "secondname": "",
-        "url": "80.242.59.112",
-        "ip": "80.242.59.112",
-        "port": "3465"
-
-    },
-    {
-        "online": "4",
-        "maxonline": "1300",
-        "color": "FFFAFA",
-        "x2": "true",
-        "key": "1424",
-        "name": "Southside Roleplay",
-        "firstname": "Southside Roleplay",
-        "secondname": "",
-        "url": "80.242.59.112",
-        "ip": "80.242.59.112",
-        "port": "3465"
-
-    }
+  {
+    "online": "0",
+    "maxonline": "50",
+    "color": "FF0000",
+    "x2": "false",
+    "key": "1",
+    "name": "Southside Roleplay",
+    "firstname": "Southside",
+    "secondname": "Roleplay",
+    "url": "80.242.59.112",
+    "ip": "80.242.59.112",
+    "port": "3465"
+  }
 ]
